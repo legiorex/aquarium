@@ -17,6 +17,10 @@
 
 #### Гуппи (Poecilia reticulata)
 
+![Кобра гуппи](assets/guppy_cobra.jpg)
+![Красный гуппи](assets/guppy_red_new.jpg)
+![Японский синий гуппи](assets/guppy_blue_japan.jpg)
+
 - **Русское название:** Гуппи
 - **Латинское название:** Poecilia reticulata
 - **Тайское название:** ปลากัดฝรั่ง (pla kat farang)
