@@ -6,7 +6,7 @@
 
 #### Дермогенис (Dermogenys pusillus)
 
-![Дермогенис](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wrestling_halfbeak_%28Dermogenys_pusilla%29.jpg/800px-Wrestling_halfbeak_%28Dermogenys_pusilla%29.jpg)
+![Дермогенис](assets/dermogenys_pusillus.jpg)
 
 - **Русское название:** Дермогенис, полурыл обыкновенный
 - **Латинское название:** Dermogenys pusillus
@@ -16,8 +16,6 @@
 - **Особенности:** Мирные, стайные, интересное поведение при кормлении.
 
 #### Гуппи (Poecilia reticulata)
-
-![Гуппи](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Poecilia_reticulata_male_1.jpg/800px-Poecilia_reticulata_male_1.jpg)
 
 - **Русское название:** Гуппи
 - **Латинское название:** Poecilia reticulata
@@ -30,8 +28,6 @@
 
 #### Конго-тетра (Phenacogrammus interruptus)
 
-![Конго-тетра](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Phenacogrammus_interruptus.jpg/800px-Phenacogrammus_interruptus.jpg)
-
 - **Русское название:** Конго-тетра
 - **Латинское название:** Phenacogrammus interruptus
 - **Тайское название:** ปลาคองโกเทตร้า (pla kongo tetra)
@@ -40,8 +36,6 @@
 - **Особенности:** Мирные, стайные, очень эффектные при движении.
 
 #### Скалярия (Pterophyllum scalare)
-
-![Скалярия](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pterophyllum_scalare_-_Pterophyllum_eimekei_%28Alt%29.jpg/800px-Pterophyllum_scalare_-_Pterophyllum_eimekei_%28Alt%29.jpg)
 
 - **Русское название:** Скалярия
 - **Латинское название:** Pterophyllum scalare
@@ -52,8 +46,6 @@
 
 #### Жемчужные гурами (Trichopodus leerii)
 
-![Жемчужный гурами](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trichopodus_leerii_1.jpg/800px-Trichopodus_leerii_1.jpg)
-
 - **Русское название:** Жемчужный гурами
 - **Латинское название:** Trichopodus leerii
 - **Тайское название:** ปลากุรามิเพิร์ล (pla gurami pearl)
@@ -62,8 +54,6 @@
 - **Особенности:** Лабиринтовые рыбы, могут дышать атмосферным воздухом.
 
 #### Меченосцы (Xiphophorus hellerii)
-
-![Меченосец](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Xiphophorus_hellerii_male_1.jpg/800px-Xiphophorus_hellerii_male_1.jpg)
 
 - **Русское название:** Меченосец
 - **Латинское название:** Xiphophorus hellerii
@@ -76,8 +66,6 @@
 
 #### Апистограмма Рамирези (Apistogramma ramirezi)
 
-![Апистограмма Рамирези](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mikrogeophagus_ramirezi_1.jpg/800px-Mikrogeophagus_ramirezi_1.jpg)
-
 - **Русское название:** Апистограмма Рамирези
 - **Латинское название:** Apistogramma ramirezi
 - **Тайское название:** ปลาอาพิสโตแกรมม่ารามิเรซี (pla apistogramma ramirezi)
@@ -87,8 +75,6 @@
 
 #### Апистограмма Какаду (Apistogramma cacatuoides)
 
-![Апистограмма Какаду](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apistogramma_cacatuoides_male_1.jpg/800px-Apistogramma_cacatuoides_male_1.jpg)
-
 - **Русское название:** Апистограмма Какаду
 - **Латинское название:** Apistogramma cacatuoides
 - **Тайское название:** ปลาอาพิสโตแกรมม่าคาคาทู (pla apistogramma cockatoo)
@@ -97,8 +83,6 @@
 - **Особенности:** Более территориальные, чем Рамирези, требуют укрытий.
 
 #### Пельвикахромис пульхер (Pelvicachromis pulcher)
-
-![Пельвикахромис пульхер](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pelvicachromis_pulcher_1.jpg/800px-Pelvicachromis_pulcher_1.jpg)
 
 - **Русское название:** Пельвикахромис пульхер, Попугайчик
 - **Латинское название:** Pelvicachromis pulcher
@@ -111,8 +95,6 @@
 
 ##### Зеленый коридорас (Corydoras aeneus)
 
-![Зеленый коридорас](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Corydoras_aeneus_1.jpg/800px-Corydoras_aeneus_1.jpg)
-
 - **Русское название:** Зеленый коридорас, бронзовый коридорас
 - **Латинское название:** Corydoras aeneus
 - **Тайское название:** ปลาคอรีดอรัสเขียว (pla corydoras khiew)
@@ -121,8 +103,6 @@
 - **Особенности:** Очень выносливые, активные, отличные санитары аквариума.
 
 ##### Коридорас Джули (Corydoras julii)
-
-![Коридорас Джули](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Corydoras_julii_1.jpg/800px-Corydoras_julii_1.jpg)
 
 - **Русское название:** Коридорас Джули, леопардовый коридорас
 - **Латинское название:** Corydoras julii
@@ -142,8 +122,6 @@
 
 #### Зебра Плеко (Hypancistrus zebra)
 
-![Зебра Плеко](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hypancistrus_zebra_1.jpg/800px-Hypancistrus_zebra_1.jpg)
-
 - **Русское название:** Зебра Плеко, зебровый сомик
 - **Латинское название:** Hypancistrus zebra
 - **Тайское название:** ปลาเซบร้าเพลโค (pla zebra pleco)
@@ -153,8 +131,6 @@
 
 #### Отоцинклюс (Otocinclus affinis)
 
-![Отоцинклюс](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Otocinclus_affinis_1.jpg/800px-Otocinclus_affinis_1.jpg)
-
 - **Русское название:** Отоцинклюс
 - **Латинское название:** Otocinclus affinis
 - **Тайское название:** ปลาโอโตซินคลัส (pla otocinclus)
@@ -163,8 +139,6 @@
 - **Особенности:** Очень чувствительны к качеству воды и наличию аммиака/нитритов. Строгие вегетарианцы.
 
 #### Акантофтальмус Кюля (Acanthophthalmus kuhlii)
-
-![Акантофтальмус Кюля](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pangio_kuhlii_1.jpg/800px-Pangio_kuhlii_1.jpg)
 
 - **Русское название:** Акантофтальмус Кюля, вьюн Кюля
 - **Латинское название:** Acanthophthalmus kuhlii
