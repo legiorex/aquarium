@@ -6,8 +6,6 @@
 
 #### Дермогенис (Dermogenys pusillus)
 
-![Дермогенис](assets/dermogenys_pusillus.jpg)
-
 - **Русское название:** Дермогенис, полурыл обыкновенный
 - **Латинское название:** Dermogenys pusillus
 - **Тайское название:** ปลากัดปากแหว่ง (pla kad paak waeng)
@@ -16,10 +14,6 @@
 - **Особенности:** Мирные, стайные, интересное поведение при кормлении.
 
 #### Гуппи (Poecilia reticulata)
-
-![Кобра гуппи](assets/guppy_cobra.jpg)
-![Красный гуппи](assets/guppy_red_new.jpg)
-![Японский синий гуппи](assets/guppy_blue_japan.jpg)
 
 - **Русское название:** Гуппи
 - **Латинское название:** Poecilia reticulata
